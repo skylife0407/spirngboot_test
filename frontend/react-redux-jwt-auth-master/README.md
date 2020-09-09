@@ -1,5 +1,4 @@
-###
-Install modules
+## Install modules
 
 npm install react-router-dom
 npm install bootstrap
